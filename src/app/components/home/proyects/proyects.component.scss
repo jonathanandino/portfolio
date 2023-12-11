@@ -113,16 +113,26 @@
     .proyect-info-left {
         background-image: none !important;
     }
+    .img-xs {
+        display: none;
+    }
 }
 
 @media (max-width: 768px) {
     .owl-carousel-o{
         display: none;
     }
+    .d-flex {
+        display: block !important;
+    }
     .proyects {
         .proyect-container {
             height: 100% !important;
+            width: 100%!important;
             margin: 33px 0 !important;
+            .owl-carousel-o{
+                width: 100%;
+            }
             .proyect-info-left {
                 width: 100%;
             }
@@ -175,7 +185,7 @@
         .proyect-info-right .proyect-box,
         .proyect-info-left .proyect-box {
             padding: 20px;
-            background: #0a192fe3;
+            background: $LightNavy;
         }
     }
 }

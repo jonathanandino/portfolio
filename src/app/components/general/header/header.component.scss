@@ -4,6 +4,10 @@
     background: transparent;
     font-family: $CodeFont;
 
+    .logo {
+        color: #99c383;
+    }
+
     .menu-ul{
       li{
         margin: 0px 13px;
@@ -51,10 +55,15 @@
             color: white !important;
             margin-right: 10px;
           }
+        .underline{
+            color: white!important;
+        } 
     }
     .aside-show {
         transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
         right: 0px;
+        backdrop-filter: blur(10px);
+        background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5));
     }
     aside {
         width: 75vw;
@@ -207,9 +216,14 @@
 
 .nav-shadow {
     height: 70px;
-    background-color: #1c1c1c;
+    background-color:#1c1c1c;
+    backdrop-filter: blur(10px);
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5));
     box-shadow: 0 10px 30px -10px rgba(2, 12, 27, 0.7);
     transition: all 0.25s cubic-bezier(0.645, 0.045, 0.355, 1) 0s;
+   // background-color: transition 6s ease-in;
+
+
     .fab {
         color: #ffffff;
       }
@@ -233,6 +247,12 @@
     nav .nav {
         display: none;
     }
+    .logo {
+        font-size: x-large ;
+    }
+    .fab {
+        padding-left: 20px;
+    }
 }
 
 @media (min-width: 827px) {
@@ -240,6 +260,7 @@
     .menu-responsive {
         display: none;
     }
+   
 }
 
 .flag-text {
@@ -278,18 +299,6 @@
     background: #323232 !important;
 }
 
-// .language-container-selector.active:after {
-//     content: " ";
-//     background: #58e2c4;
-//     width: 61%;
-//     height: 1px;
-//     position: absolute;
-//     border-radius: 10px;
-//     left: 0;
-//     right: 0;
-//     margin: auto;
-//     margin-top: 21px;
-// }
 .arrow-language {
     font-size: 10px;
     height: 10px;
