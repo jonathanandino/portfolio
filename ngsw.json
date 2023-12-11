@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1702300085624,
+  "timestamp": 1702300495581,
   "index": "https://jonathanandino.github.io/portfolio/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://jonathanandino.github.io/portfolio/favicon.ico",
         "https://jonathanandino.github.io/portfolio/index.html",
-        "https://jonathanandino.github.io/portfolio/main.567183f4e44e231d.js",
+        "https://jonathanandino.github.io/portfolio/main.84934c49761958e4.js",
         "https://jonathanandino.github.io/portfolio/manifest.webmanifest",
         "https://jonathanandino.github.io/portfolio/polyfills.022fd94a754e785e.js",
         "https://jonathanandino.github.io/portfolio/runtime.c6c5a129846834ba.js",
@@ -115,6 +115,7 @@
         "https://jonathanandino.github.io/portfolio/assets/icons/icon-96x96.png",
         "https://jonathanandino.github.io/portfolio/assets/images/Logo.png",
         "https://jonathanandino.github.io/portfolio/assets/images/banner.jpg",
+        "https://jonathanandino.github.io/portfolio/assets/images/banner.png",
         "https://jonathanandino.github.io/portfolio/assets/images/e.mercado/001.jpg",
         "https://jonathanandino.github.io/portfolio/assets/images/e.mercado/002.jpg",
         "https://jonathanandino.github.io/portfolio/assets/images/e.mercado/003.jpg",
@@ -240,6 +241,7 @@
     "https://jonathanandino.github.io/portfolio/assets/icons/icon-96x96.png": "139bf643844d40356bf5e460de25852c98d2ca71",
     "https://jonathanandino.github.io/portfolio/assets/images/Logo.png": "0c22a13e388d5eae8462c5c3b4fa73101b3c9d41",
     "https://jonathanandino.github.io/portfolio/assets/images/banner.jpg": "a912ac781b3b7e75b9da8fe554afeefc0678c8ba",
+    "https://jonathanandino.github.io/portfolio/assets/images/banner.png": "499655166188eacf4ad52f4e05532dbc32db6585",
     "https://jonathanandino.github.io/portfolio/assets/images/e.mercado/001.jpg": "fc125226873a1206116b759d61519a69b6d72fd7",
     "https://jonathanandino.github.io/portfolio/assets/images/e.mercado/002.jpg": "901ee1399d6465d19ed5027058e463ff8b5371be",
     "https://jonathanandino.github.io/portfolio/assets/images/e.mercado/003.jpg": "20ee33b9c59967f323659ab5fbbeb4ba5089cd6f",
@@ -274,8 +276,8 @@
     "https://jonathanandino.github.io/portfolio/fa-solid-900.6bcd6c9c0a9fcfbf.woff2": "a9922842a120a7f1eaced667480c5e185a106d69",
     "https://jonathanandino.github.io/portfolio/fa-solid-900.9d21645b52658faa.svg": "33fe5758f3992d8da2635c4fa230b54376dd18d1",
     "https://jonathanandino.github.io/portfolio/favicon.ico": "5a0273f2e6df378ac65a99198ad13053233338f0",
-    "https://jonathanandino.github.io/portfolio/index.html": "4c8eaaf46d9a6a147a992c4019dbd6e4d457ceaf",
-    "https://jonathanandino.github.io/portfolio/main.567183f4e44e231d.js": "647a8fc1ceddec78eeed1fba39bb643132154948",
+    "https://jonathanandino.github.io/portfolio/index.html": "113af039b24ea6041200567d5e9085b68cba312a",
+    "https://jonathanandino.github.io/portfolio/main.84934c49761958e4.js": "83fa4cb2a8352dc7183675460d23db1cd77838bc",
     "https://jonathanandino.github.io/portfolio/manifest.webmanifest": "49574fe352499f86ba92c39cb3334144bb9cc86b",
     "https://jonathanandino.github.io/portfolio/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "https://jonathanandino.github.io/portfolio/polyfills.022fd94a754e785e.js": "353e28de15ee1700ed32e1ea7973ba2d82bcf375",
