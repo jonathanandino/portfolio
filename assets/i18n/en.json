@@ -1,0 +1,94 @@
+{
+
+    "Header.Item1" : "About me",
+    "Header.Item2" : "Experience",
+    "Header.Item3" : "Projects",
+    "Header.Item4" : "Contact",
+
+    "Banner.Pretitle": "Hi! I'm",
+    "Banner.ActionBtn": "Here me",
+
+    "AboutMe.Title": "About me",
+    "AboutMe.Paragraphs": [
+        "I'm a web developer with experience in <span class='underline'>HTML, CSS, y JavaScript</span>, as well as skills in <span class='underline'>AngularJS, ReactJS, Node.js, Express.js y MongoDB.</span> Training in <span class='underline'>Full Stack y DevOps development</span> and certificate in <span class='underline'>agile methodologies</span> such as <span class='underline'>SCRUM and Kanban.</span>",
+        "Passionate about continuous learning and problem solving, I have the ability to design user interfaces and solve problems analytically. I am looking for an opportunity to continue growing in the field of web development.",
+        "Some of the technologies in which I have trained are:" 
+    ],
+ 
+    "FeatureProjects.Title": "My projects",
+    "FeatureProjects.Label": "Featured Project",
+    "FeatureProjects.Projects": [{
+            "Title": "E.comerce",
+            "Description": "This is a web page for an online product store developed with <span class='underline'>HTML, CSS and JavaScript.</span> The goal of this page is to allow users to browse and purchase products online in an easy and intuitive way. This project was part of a task from the 'Jóvenes a Programar' course at Ceibal.",
+            "imgs": [
+                "assets/images/e.mercado/001.jpg",
+                "assets/images/e.mercado/002.jpg",
+                "assets/images/e.mercado/003.jpg",
+                "assets/images/e.mercado/004.jpg",
+                "assets/images/e.mercado/005.jpg",
+                "assets/images/e.mercado/006.jpg",
+                "assets/images/e.mercado/007.jpg",
+                "assets/images/e.mercado/008.jpg",
+                "assets/images/e.mercado/009.jpg",
+                "assets/images/e.mercado/010.jpg"
+            ],
+            "ghLink": "https://github.com/jonathanandino/e.mercado.git",
+            "demoLink": "https://github.com/jonathanandino/e.mercado.git",
+            "Technologies": ["HTML", "CSS", "JavaScript", "Bootstrap"]
+        }
+        
+    ],
+
+
+
+    "OtherProjects.Title": "More projects",
+    "OtherProjects.Projects": [{
+            "Title": "Pokemon",
+            "Description": "Pokemon search engine that uses the pokeapi. Object-oriented programming was used to organize the information of the pokemons along with their respective image.",
+            "ghLink": "https://github.com/jonathanandino/pokemon-angular",
+            "demoLink": "https://projects.jonathanandino.com/pokemon-list",
+            "Technologies": ["Angular", "RxJs", "API", "Bootstrap"]
+        },
+        {
+            "Title": "Coming soon page",
+            "Description": "Personal project of a two-column split page to be used as a 'Coming soon page'. Scheduled to be a fully responsive design. It has a form field to subscribe by email.",
+            "ghLink": "https://github.com/jonathanandino/coming-soon-page",
+            "demoLink": "https://projects.jonathanandino.com/coming-soon-page",
+            "Technologies": ["Angular", "SASS", "CSS GRID", "Reactive form"]
+        },
+        {
+            "Title": "Four card feature section",
+            "Description": "A single page that has a minimal design, listing four features on four cards. Input animations are done with angular animations.",
+            "ghLink": "https://github.com/jonathanandino/fourd-card-feature-section",
+            "demoLink": "https://projects.jonathanandino.com/four-card-feature-section",
+            "Technologies": ["Angular", "SASS", "CSS GRID"]
+        },
+        {
+            "Title": "Social proof section",
+            "Description": "Personal project of a page designed from a Figma layout. Angular was used for development together with SASS and CSS GRID.",
+            "ghLink": "https://github.com/jonathanandino/social-proof-section",
+            "demoLink": "https://projects.jonathanandino.com/social-proof-section",
+            "Technologies": ["Angular", "CSS GRID", "GIT"]
+        },
+        {
+            "Title": "FAQ accordion card",
+            "Description": "FAQ accordion with logic and animations made in Angular.",
+            "ghLink": "https://github.com/jonathanandino/faq-accordion",
+            "demoLink": "https://proyectos.jonathanandino.com/faq-accordion",
+            "Technologies": ["Angular", "CSS GRID", "Angular animations"]
+        },
+        {
+            "Title": "Profile card",
+            "Description": "Simple one-page design that features a profile letter with basic information about a person.",
+            "ghLink": "https://github.com/jonathanandino/profile-card-component",
+            "demoLink": "https://proyectos.jonathanandino.com/profile-card-component",
+            "Technologies": ["Angular", "SASS", "GIT"]
+        }
+    ],
+    "Contact.Pretitle": "What’s Next",
+    "Contact.Title": "Get in touch!",
+    "Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+    "Contact.Btn": "Say Hello"
+
+
+}
