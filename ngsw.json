@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1702300495581,
+  "timestamp": 1702321905785,
   "index": "https://jonathanandino.github.io/portfolio/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "https://jonathanandino.github.io/portfolio/favicon.ico",
         "https://jonathanandino.github.io/portfolio/index.html",
-        "https://jonathanandino.github.io/portfolio/main.84934c49761958e4.js",
+        "https://jonathanandino.github.io/portfolio/main.ea30a187d52885d2.js",
         "https://jonathanandino.github.io/portfolio/manifest.webmanifest",
         "https://jonathanandino.github.io/portfolio/polyfills.022fd94a754e785e.js",
         "https://jonathanandino.github.io/portfolio/runtime.c6c5a129846834ba.js",
@@ -276,8 +276,8 @@
     "https://jonathanandino.github.io/portfolio/fa-solid-900.6bcd6c9c0a9fcfbf.woff2": "a9922842a120a7f1eaced667480c5e185a106d69",
     "https://jonathanandino.github.io/portfolio/fa-solid-900.9d21645b52658faa.svg": "33fe5758f3992d8da2635c4fa230b54376dd18d1",
     "https://jonathanandino.github.io/portfolio/favicon.ico": "5a0273f2e6df378ac65a99198ad13053233338f0",
-    "https://jonathanandino.github.io/portfolio/index.html": "113af039b24ea6041200567d5e9085b68cba312a",
-    "https://jonathanandino.github.io/portfolio/main.84934c49761958e4.js": "83fa4cb2a8352dc7183675460d23db1cd77838bc",
+    "https://jonathanandino.github.io/portfolio/index.html": "b67335bafc940e784d301688a85d77dbc8b7d990",
+    "https://jonathanandino.github.io/portfolio/main.ea30a187d52885d2.js": "c540e53e30627539c04dddcc295b3a116857e889",
     "https://jonathanandino.github.io/portfolio/manifest.webmanifest": "49574fe352499f86ba92c39cb3334144bb9cc86b",
     "https://jonathanandino.github.io/portfolio/owl.video.play.e3b436436832b027.png": "c0d64356ec2758cb280d183b4829c923e5ff61e5",
     "https://jonathanandino.github.io/portfolio/polyfills.022fd94a754e785e.js": "353e28de15ee1700ed32e1ea7973ba2d82bcf375",
